@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_weather_information">WeatherInformation</string>
+
+    <string-array name="cities_array">
+        <item>Select a City...</item>
+        <item>Skopje</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Detroit</item>
+        <item>Istanbul</item>
+    </string-array>
+
+</resources>
